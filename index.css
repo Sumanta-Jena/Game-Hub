@@ -1,0 +1,38 @@
+#bg1{
+  background-color: lightblue;
+}
+.heading{
+  color: black;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 40px;
+
+}
+.imgcontainer{
+  display: flex;
+  justify-content: center;
+}
+.container{
+  display: flex;
+  float: left;
+  margin: 30px;
+
+  
+}
+.container a{
+  text-decoration: none;
+}
+.img{
+  width: 150px;
+  height: 200px;
+  
+  
+}
+.text{
+  color: black;
+  text-align: center;
+  font-size: 20px;
+  
+}
+
+
